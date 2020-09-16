@@ -11,3 +11,12 @@ repository, pull requests or issues attempting to change my mind are welcome.
 - reduce the military
 - gun control
 - tax equity
+- education
+    - close the schools to prison pipeline
+    - get police out of schools
+- police
+    - defund, disarm, and demilitarize the police
+    - get rid of qualified immunity
+    - get rid of civil asset forfeiture
+    - body cams on all the time
+    - independent oversight
