@@ -52,9 +52,9 @@ It is also a sort of spiritual successor to [busterbenson/public](https://github
 
 ### Upcoming elections
 
-- [2020-06-30: colorado primary](2020/06-30/README.md)
 - [2020-11-03: general election](2020/11-03/README.md)
 
 ### Past elections
 
-- [November 5, 2019](2019/11-05/README.md)
+- [2020-06-30: colorado primary](2020/06-30/README.md)
+- [2019-11-05](2019/11-05/README.md)
