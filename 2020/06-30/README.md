@@ -6,13 +6,28 @@ I will be voting in Denver, Colorado for this election.
 
 ### Elections
 
-#### National Government
-
-- ✅ [US Senate](us_senate/README.md): Andrew Romanoff
-- ✅ [US House Colorado District 1](us_house/README.md): Dianna DeGette
-
-#### State Government
+#### State
 
 - ✅ [State Board of Education District 1](boe/README.md): Lisa Escarcega
 - ✅ [State Senate District 33](state_senate/README.md): James Coleman
 - ✅ [State House District 8](state_house/README.md): Leslie Herod
+
+#### National
+
+- ✅ [US Senate](us_senate/README.md): Andrew Romanoff
+- ✅ [US House Colorado District 1](us_house/README.md): Dianna DeGette
+
+## Results
+
+Did I win?
+
+#### State
+
+- 👍 [State Board of Education District 1](boe/README.md): Lisa Escarcega
+- 👍 [State Senate District 33](state_senate/README.md): James Coleman (unopposed)
+- 👍 [State House District 8](state_house/README.md): Leslie Herod (unopposed)
+
+#### National
+
+- 👎 [US Senate](us_senate/README.md): Andrew Romanoff. Lost to Hickenlooper.
+- 👍 [US House Colorado District 1](us_house/README.md): Dianna DeGette (unopposed)
