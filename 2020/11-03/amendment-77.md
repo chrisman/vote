@@ -1,5 +1,18 @@
 # [2020-11-03](README.md) / Amendment 77: Local Voter Approval of Casino Bet Limits and Games in Black Hawk, Central City, and Cripple Creek
 
+Voting yes means:
+
+1. Allow the residents in casino towns to vote to raise the max bet from $100
+2. Allow the residents to vote to allow more types of games
+
+## Vote
+
+👍 Yes
+
+## Why
+
+- Extra tax revenue sounds good
+- why not!
 
 ## Resources
 
